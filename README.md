@@ -1,10 +1,19 @@
-# Getting Started with Create React App
+# Crypto Watch App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este projeto é apenas uma demonstração utilizando react, material-ui, e context-api para monitorar o preço das cripto moedas.
 
-## Available Scripts
+## Demo
 
-In the project directory, you can run:
+Para ver o projeto rodando acesse o link:
+[https://cryptowatch-app.herokuapp.com/](https://cryptowatch-app.herokuapp.com/)
+
+## Instalação e execução
+
+Para instalar este app basta clonar este repositório e executar o comando abaixo para instalar as dependências:
+
+### `npm install`
+
+Para executar o app basta executar os comandos abaixo:
 
 ### `npm start`
 
