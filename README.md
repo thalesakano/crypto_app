@@ -5,7 +5,7 @@ Este projeto é apenas uma demonstração utilizando react, material-ui, e conte
 ## Demo
 
 Para ver o projeto rodando acesse o link:
-[https://cryptowatch-app.herokuapp.com/](https://cryptowatch-app.herokuapp.com/)
+[https://crypt0-watch-app0.netlify.app/](https://crypt0-watch-app0.netlify.app/)
 
 ## Instalação e execução
 
